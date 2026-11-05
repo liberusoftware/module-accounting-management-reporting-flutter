@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-management-reporting-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-management-reporting",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_management_reporting_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/management-reporting.md",
+  "presentationPlan": "projects/accounting/flutter/management-reporting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
